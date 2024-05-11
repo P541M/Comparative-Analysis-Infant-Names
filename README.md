@@ -22,5 +22,12 @@ cd teamproject
 python3 ./main.py -a aus.csv -b cali.csv
 ```
 
+## Contributors
+```
+Braedan Chappel
+Jashanjot Panjrath
+Adrian Janiszewski
+```
+
 ## Contact
 Psalm Eleazar G. Videna - [Email](mailto:videna.psalmeleazar@gmail.com) - [LinkedIn](https://www.linkedin.com/in/pevidena/) - [GitHub](https://github.com/P541M)
